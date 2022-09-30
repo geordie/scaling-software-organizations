@@ -1,6 +1,6 @@
 # Managers and Individual Contributors
 
-Software developments teams are comprised mostly of software developers who are individual contributors (ICs). Software developers are managed by engineering managers. Often those managers started their careers as software developers. 
+Software development teams are comprised mostly of software developers who are individual contributors (ICs). Software developers are managed by engineering managers. Often those managers started their careers as software developers. 
 
 In the highest functioning teams I've been a part of, this distinction between the people who build, and the people who manage is clear an unambiguous. Peoples' roles fall into one or the other category with equivalent but different career development tracks that both theoretically lead to the same maximum seniority level. Andy Grove talks about the distinctions between what managers do and what individual contributors do in his book <u>High Output Management</u>. In Grove's framework, managers lead people, and individual contributors lead other resources like technology stacks, and infrastructure.
 
