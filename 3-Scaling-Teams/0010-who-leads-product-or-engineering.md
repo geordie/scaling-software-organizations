@@ -2,7 +2,7 @@
 
 Every software led organization has a product management and engineering leadership function. In oversimplified terms, product management is the business function that bridges what customers want to do with what the product does. Engineering is the function that determines how to continuously build, test, and ships the product. As shorthand, Product Management guides WHAT product gets delivered and Engineering steers HOW the product gets delivered. 
 
-In very early stage companies, there are two few people to always have distinct people or teams doing product management and engineering but both functions have to get done, even if by the same people wearing multiple hats. Often early stage CEOs do the product management and early stage technical leaders do the engineering. At scale, product management and engineering become distinct but interdependent teams. They often exist in healthy tension.
+In very early stage companies, there are too few people to always have distinct people or teams doing product management and engineering but both functions have to get done, even if by the same people wearing multiple hats. Often early stage CEOs do the product management and early stage technical leaders do the engineering. At scale, product management and engineering become distinct but interdependent teams. They often exist in healthy tension.
 
 Managed well, these business functions are both better off for the other's existence and collaborate to deliver products that are greater than the sum of the teams respective parts. Managed poorly, product and engineering can get in each others way and slow down the business. 
 
