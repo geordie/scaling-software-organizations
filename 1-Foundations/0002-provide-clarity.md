@@ -1,0 +1,2 @@
+## Provide Clarity
+Many organizations in the public sector have adopted an Open by Default principle that guides their decision making about what data and information to share. When an organization is open by default data and information are shared unless there is a compelling good reason to override the default and keep information secrets. 

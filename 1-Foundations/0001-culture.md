@@ -1,0 +1,12 @@
+## Culture
+
+Culture is one of the hardest topics to wrestle with while scaling an organization, so let's start with culture. Culture is hard for three interacting reasons. First, culture is hard to define. Second, culture is hard to intentionally change. Third, culture is a vital ingredient to whether an organization succeeds or fails.
+
+As a working definition, culture is the set of values, practices, attitudes, and styles that determine how people in an organization operate. I think of culture as the operating system for a company. Just as an operating system determines how processes run and users experience their devices, culture determines how company processes work and how employees and customers experience an organziation. Culture is omnipresent but with no tangible, isolatable, representation in the real world. There is no one detail you can point at and say "that's our culture." You might say that some event, or meeting was aligned to the company's culture, or that some business decision was inconsistent with company values, but the events and decisions, and whatever else, are not themselves elements of culture. Yet culture permeates everything organizations do. The intangibility culture means that there is a lot of interpretation that has to occur for any individual  assess and define a groups's culture, and how figure out how culture manifests in an organization's day to day activities. Intangibility means culture is open to interpretation, whichcan lead to a lot of disagreement. Disagreement can be uncomfortable. There are two ways to handle this. Either an organization can embrace the discomfort and myriad interpretations of culture, or not talk about culture. I don't believe the second path is a viable option. Just as computers don't work very well without operating systems, organizations don't work very well without an articulated culture, however imperfect and assailable that articulation might be.
+
+So culture is hard to define and hard to see in any tangible form. Yet culture permeates everything an organization does. These traits also make established culture hard to change. The biggest opportunity to set culture is right when an organization is just starting out. Founders and early employees who give careful thought to what their values are, articulate them, and then authentically live those values as they figure out how to scale the company, are better positioned than those who don't.
+
+Amazon is a great example of how culture works. Amazon has it's Leadership Principles. Two new leadership principles.
+
+
+
